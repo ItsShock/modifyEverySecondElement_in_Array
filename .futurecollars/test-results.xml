@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" time="2.721">
+  <testsuite name="Funkcja modifyEverySecondElement" errors="0" failures="0" skipped="0" timestamp="2021-04-18T15:55:04" time="1.565" tests="3">
+    <testcase classname="Funkcja modifyEverySecondElement powinna zwrócić tablice" name="Funkcja modifyEverySecondElement powinna zwrócić tablice" time="0.001">
+    </testcase>
+    <testcase classname="Funkcja modifyEverySecondElement powinna zmodyfikować przekazany do niej parametr" name="Funkcja modifyEverySecondElement powinna zmodyfikować przekazany do niej parametr" time="0">
+    </testcase>
+    <testcase classname="Funkcja modifyEverySecondElement powinna zwrócić tablicę, która ma co drugi element powiększony o 1" name="Funkcja modifyEverySecondElement powinna zwrócić tablicę, która ma co drugi element powiększony o 1" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
